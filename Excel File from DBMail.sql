@@ -11,3 +11,5 @@ EXEC msdb.dbo.sp_send_dbmail
     @query_attachment_filename='RATEST.CSV',
     @query_result_separator=@tab,
     @query_result_no_padding=1
+    
+    
